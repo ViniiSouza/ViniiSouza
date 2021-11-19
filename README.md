@@ -2,7 +2,7 @@
 
 
 - 🔭 Estou atualmente trabalhando na Pilar Sistemas como Desenvolvedor BackEnd
-- 🌱 Estou atualmente aprendendo React no DevInHouse (SENAI)
+- 🌱 Estou atualmente aprendendo React no DevInHouse (SENAI) e Vue.Js (Alura)
 - 💻 Desenvolvimento voltado ao BackEnd com .NET Core
 - 🌐 Desenvolvimento de API's
 - 🖼 Conhecimentos de FrontEnd em Angular e TypeScript
