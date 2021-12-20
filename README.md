@@ -1,11 +1,11 @@
 ## Olá! Meu nome é Vinícius!
 
 
-- 🔭 Estou atualmente trabalhando na Pilar Sistemas como Desenvolvedor BackEnd
+- 🔭 Estou atualmente trabalhando na Pilar Sistemas como Desenvolvedor fullstack
 - 🌱 Estou atualmente aprendendo React no DevInHouse (SENAI) e Vue.Js (Alura)
-- 💻 Desenvolvimento voltado ao BackEnd com .NET Core
+- 💻 Desenvolvimento com ênfase em BackEnd com .NET Core
 - 🌐 Desenvolvimento de API's
-- 🖼 Conhecimentos de FrontEnd em Angular e TypeScript
+- 🖼 Experiência profissional com C Sharp, VueJS e SQLServer
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniisouza&layout=compact&theme=tokyonight)](https://github.com/viniisouza/github-readme-stats)
