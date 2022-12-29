@@ -6,7 +6,7 @@
 - 💻 Desenvolvimento com ênfase em BackEnd com .NET Core
 - 🌐 Desenvolvimento de API's
 - 🖼 Experiência profissional com C Sharp, VueJS e SQLServer
-- Você pode conferir meu portfólio aqui: https://vinicius-portfolio-app.herokuapp.com/
+- Você pode conferir meu portfólio aqui: https://viniisouza.github.io/my-portfolio/
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniisouza&layout=compact&theme=tokyonight)](https://github.com/viniisouza/github-readme-stats)
