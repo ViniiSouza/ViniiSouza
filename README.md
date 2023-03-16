@@ -1,8 +1,8 @@
 ## Olá! Meu nome é Vinícius!
 
 
-- 🔭 Atualmente trabalho na Pilar Sistemas como Desenvolvedor fullstack
-- 🌱 Criando projetos em Vue e .NET
+- 🔭 Atualmente trabalho na Benner Sistemas como Desenvolvedor backend
+- 🌱 Criando projetos em .NET
 - 💻 Desenvolvimento com ênfase em BackEnd com .NET Core
 - 🌐 Desenvolvimento de API's
 - 🖼 Experiência profissional com C Sharp, VueJS e SQLServer
