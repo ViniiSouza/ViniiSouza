@@ -7,6 +7,7 @@
 - ✉️  Você pode entrar em contato comigo em [vinigsouza.bnu@gmail.com](mailto:vinigsouza.bnu@gmail.com)
 - 🚀  Estou trabalhando atualmente na [Benner Sistemas](http://www.benner.com.br/)
 - 🤝  Estou aberto para colaborar em projetos interessantes
+- 📑  Você pode acessar meu currículo [aqui](https://github.com/ViniiSouza/ViniiSouza/blob/main/files/resume/ptBR_curr%C3%ADculo.pdf)
 - 🌐  English version [here](https://github.com/ViniiSouza/ViniiSouza/blob/main/README.md)
 
 ### Tecnologias principais
@@ -26,7 +27,7 @@
 ### Redes sociais
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/vin%C3%ADcius-gabriel-de-souza-b3950815a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/vin%C3%ADcius-gabriel-de-souza/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   <a href="https://www.stackoverflow.com/users/18806595/viniisouza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
   <a href="https://www.github.com/ViniiSouza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
   <a href="http://www.medium.com/@viniisouza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a>
