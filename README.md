@@ -1,17 +1,15 @@
-Hi 👋 My name is Vinícius
-=========================
+# Hi 👋 My name is Vinícius
 
-FullStack Developer
--------------------
+## FullStack Developer
 
-* 🌍  I'm based in Blumenau, Santa Catarina, Brazil
-* 🖥️  See my portfolio [here](http://viniisouza.github.io/my-portfolio/)
-* ✉️  You can contact me at [vinigsouza.bnu@gmail.com](mailto:vinigsouza.bnu@gmail.com)
-* 🚀  I'm currently working on [Benner Sistemas](http://www.benner.com.br/)
-* 🤝  I'm open to collaborating on interesting projects
+- 🌍  I'm based in Blumenau, Santa Catarina, Brazil
+- 🖥️  See my portfolio [here](http://viniisouza.github.io/my-portfolio/)
+- ✉️  You can contact me at [vinigsouza.bnu@gmail.com](mailto:vinigsouza.bnu@gmail.com)
+- 🚀  I'm currently working on [Benner Sistemas](http://www.benner.com.br/)
+- 🤝  I'm open to collaborating on interesting projects
+- 🌐  Portuguese version [here](https://github.com/ViniiSouza/ViniiSouza/blob/main/README_ptBR.md)
 
-### Skills
-
+### Core Skills
 
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
@@ -25,7 +23,6 @@ FullStack Developer
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
 
-
 ### Socials
 
 <p align="left">
@@ -37,6 +34,6 @@ FullStack Developer
 </p>
 
 ### GitHub Stats
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniiSouza&langs_count=5&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&locale=en&custom_title=Top%20%Languages&layout=compact)](https://github.com/ViniiSouza)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniiSouza&show_icons=true&hide=issues,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&show_icons=true)](https://github.com/ViniiSouza)
-
