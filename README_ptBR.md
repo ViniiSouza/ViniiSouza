@@ -3,7 +3,7 @@
 ## Desenvolvedor Fullstack
 
 - 🌍  Atualmente moro em Blumenau, Santa Catarina, Brasil
-- 🖥️  Veja meu portfólio [aqui](http://viniisouza.github.io/my-portfolio/)
+- 🖥️  Veja meu portfólio [aqui](https://www.souzavinicius.com/)
 - ✉️  Você pode entrar em contato comigo em [vinigsouza.bnu@gmail.com](mailto:vinigsouza.bnu@gmail.com)
 - 🚀  Estou trabalhando atualmente na [Benner Sistemas](http://www.benner.com.br/)
 - 🤝  Estou aberto para colaborar em projetos interessantes

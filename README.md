@@ -3,7 +3,7 @@
 ## FullStack Developer
 
 - 🌍  I'm based in Blumenau, Santa Catarina, Brazil
-- 🖥️  See my portfolio [here](http://viniisouza.github.io/my-portfolio/)
+- 🖥️  See my portfolio [here](https://www.souzavinicius.com/)
 - ✉️  You can contact me at [vinigsouza.bnu@gmail.com](mailto:vinigsouza.bnu@gmail.com)
 - 🚀  I'm currently working on [Benner Sistemas](http://www.benner.com.br/)
 - 🤝  I'm open to collaborating on interesting projects
