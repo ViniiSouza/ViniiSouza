@@ -5,7 +5,7 @@
 - 🌍  I'm based in Blumenau, Santa Catarina, Brazil
 - 🖥️  See my portfolio [here](https://www.souzavinicius.com/)
 - ✉️  You can contact me at [vinigsouza.bnu@gmail.com](mailto:vinigsouza.bnu@gmail.com)
-- 🚀  I'm currently working on [Benner Sistemas](http://www.benner.com.br/)
+- 🚀  I'm currently working on [BluData Software](https://www.bludata.com.br/)
 - 🤝  I'm open to collaborating on interesting projects
 - 📑  You can access my resumé [here](https://github.com/ViniiSouza/ViniiSouza/blob/main/files/resume/en_resume.pdf)
 - 🌐  Portuguese version [here](https://github.com/ViniiSouza/ViniiSouza/blob/main/README_ptBR.md)
