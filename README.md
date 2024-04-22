@@ -34,6 +34,8 @@
   <a href="https://www.codepen.io/viniisouza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=viniisouza&style=flat-square)
+
 ### GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniiSouza&langs_count=5&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&locale=en&custom_title=Top%20%Languages&layout=compact)](https://github.com/ViniiSouza)
