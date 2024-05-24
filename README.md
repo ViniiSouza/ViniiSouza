@@ -35,6 +35,7 @@
 </p>
 
 ![](https://komarev.com/ghpvc/?username=viniisouza&style=flat-square)
+[![wakatime](https://wakatime.com/badge/user/2fd4d492-0e36-4eea-8a31-264d12f4fe85.svg/?style=flat-square)](https://wakatime.com/@2fd4d492-0e36-4eea-8a31-264d12f4fe85)
 
 ### GitHub Stats
 
