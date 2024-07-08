@@ -3,7 +3,7 @@
 ## FullStack Developer
 
 - 🌍  I'm based in Blumenau, Santa Catarina, Brazil
-- 🖥️  See my portfolio [here](https://www.souzavinicius.com/)
+- 🖥️  Check my portfolio [here](https://www.souzavinicius.com/)
 - ✉️  You can contact me at [vinigsouza.bnu@gmail.com](mailto:vinigsouza.bnu@gmail.com)
 - 🚀  I'm currently working on [BluData Software](https://www.bludata.com.br/)
 - 🤝  I'm open to collaborating on interesting projects
