@@ -1,6 +1,6 @@
 # Hi 👋 My name is Vinícius
 
-## FullStack Developer
+## FullStack Engineer
 
 - 🌍  I'm based in Blumenau, Santa Catarina, Brazil
 - 🖥️  Check my portfolio [here](https://www.souzavinicius.com/)

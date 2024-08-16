@@ -1,6 +1,6 @@
 # Olá 👋 Meu nome é Vinícius
 
-## Desenvolvedor Fullstack
+## Engenheiro de Software Fullstack
 
 - 🌍  Atualmente moro em Blumenau, Santa Catarina, Brasil
 - 🖥️  Veja meu portfólio [aqui](https://www.souzavinicius.com/)
