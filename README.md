@@ -39,5 +39,5 @@
 
 ### GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniiSouza&langs_count=5&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&locale=en&custom_title=Top%20%Languages&layout=compact)](https://github.com/ViniiSouza)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniiSouza&show_icons=true&hide=issues,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&show_icons=true)](https://github.com/ViniiSouza)
+[![Top Langs](https://github-readme-status-seven-chi.vercel.app/api/top-langs/?username=ViniiSouza&langs_count=5&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&locale=en&custom_title=Top%20%Languages&layout=compact)](https://github.com/ViniiSouza)
+[![GitHub stats](https://github-readme-status-seven-chi.vercel.app/api?username=ViniiSouza&show_icons=true&hide=issues,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&show_icons=true)](https://github.com/ViniiSouza)
