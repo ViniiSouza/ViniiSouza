@@ -4,7 +4,7 @@
 
 - 🌍  I'm based in Blumenau, Santa Catarina, Brazil
 - 🖥️  Check my portfolio [here](https://www.souzavinicius.com/)
-- ✉️  You can contact me at [vinigsouza.bnu@gmail.com](mailto:vinigsouza.bnu@gmail.com)
+- ✉️  You can contact me at [contact@souzavinicius.com](mailto:contact@souzavinicius.com) or via [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-gabriel-de-souza/?locale=en_US)
 - 🚀  I'm currently working on [BluData Software](https://www.bludata.com.br/)
 - 🤝  I'm open to collaborating on interesting projects
 - 📑  You can access my resumé [here](https://github.com/ViniiSouza/ViniiSouza/blob/main/files/resume/en_resume.pdf)
